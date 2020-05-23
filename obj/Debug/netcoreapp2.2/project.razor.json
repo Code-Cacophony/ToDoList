@@ -2961,6 +2961,16 @@
   "RootNamespace": "ToDoList",
   "Documents": [
     {
+      "FilePath": "/Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/Views/Items/CreateForm.cshtml",
+      "TargetPath": "Views\\Items\\CreateForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/Views/Items/Index.cshtml",
+      "TargetPath": "Views\\Items\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
