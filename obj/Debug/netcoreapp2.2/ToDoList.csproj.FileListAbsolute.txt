@@ -21,5 +21,7 @@
 /Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.Views.pdb
 /Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
-/Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/CreateForm.g.cshtml.cs
 /Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Index.g.cshtml.cs
+/Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeleteAll.g.cshtml.cs
+/Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/New.g.cshtml.cs
+/Users/erikgrove/Desktop/code/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Show.g.cshtml.cs
